@@ -1,4 +1,5 @@
-# Dr. Noman Khan
+### Research Interest
+Artificial Intelligence, Time Series Analysis, Computer Vision
 
 ### Education
 - Ph.d., Software | Sejong University, South Korea (August 2024)
