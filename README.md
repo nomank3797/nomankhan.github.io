@@ -3,7 +3,7 @@
 Artificial Intelligence, Time Series Analysis, Computer Vision
 
 ### Education
-- Ph.d., Software | Sejong University, South Korea (August 2024)
+- Ph.d., Software | [Sejong University](http://sejong.ac.kr/), South Korea (August 2024)
 - BS., Computer Science | Islamia College Peshawar, Pakistan (August 2018)
 
 ### Work Experience
