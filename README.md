@@ -74,7 +74,6 @@
 - Hikmat Yar, Adnan Hussain, Noman Khan, et al. “Feature importance analysis for population projection.” [10th ICNGC, 2024.11]
 - Sang Il Yoon, Min Je Kim, Noman Khan, et al. “Polynomial Regression Modeling for Efficient Prediction of Battery Rate Capability.” [10th ICNGC, 2024.11]
 - Amjid Ali, Noman Khan, et al. “Active Learning for Anomaly Recognition: Leveraging Visual and Audio Data Fusion.” [10th ICNGC, 2024.11]
-- Altaf Hussain, Noman Khan, et al. “Medium Scale Benchmark for Cricket Excited Actions Understanding.” [10th International Workshop on Computer Vision in Sports at CVPR 2024]
 - Hikmat Yar, Amjid Ali, Zulfiqar Ahmad Khan, Noman Khan, et al. “A Modified Vision Transformer-Based Anomaly Recognition Using Audio Data.” [KINGPC-S, 2024.04]
 - Altaf Hussain, Noman Khan, et al. “Surveillance Abnormal Activity Recognition Using Residual Deep Bidirectional LSTM Network.” [KINGPC-S, 2024.04]
 - Zulfiqar Ahmad Khan, Waseem Ullah, Hikmat Yar, Noman Khan, et al. “Dataset Standardization for Effective Solar Power Forecasting: A Comprehensive Analysis.” [9th ICNGC, 2023.12]
@@ -90,3 +89,5 @@
 - Min Je Kim, Ju Chan Park, Samee Ullah Khan, Noman Khan, et al. “Object Tracking using Similarity Measurement Algorithm in Multi-View Surveillance Videos.” [6th ICNGC, 2020.12]
 - Imran Ullah Khan, Hikmat Yar, Noman Khan, et al. “Efficient Skin Cancer Detection Using Embedded Device.” [4th ICNGC, 2018.12] 
 
+### Workshop Publications
+- Altaf Hussain, Noman Khan, et al. “Medium Scale Benchmark for Cricket Excited Actions Understanding.” [10th International Workshop on Computer Vision in Sports at CVPR 2024]
