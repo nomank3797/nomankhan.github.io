@@ -9,7 +9,7 @@
 - Research Assistant @ Intelligent Media Laboratory, Sejong University, South Korea (September 2019 - August 2023)
 - Research Assistant @ Digital Image Processing Laboratory, Islamia College Peshawar, Pakistan (September 2017 - August 2019)
 
-### Projects Experience
+### Project Experience
 - Anomaly Behavior Recognition for Accident Prevention in the Connected Vision Environment (2023R1A2C1005788) National Research Foundation of Korea
 - Development and Demonstration of Real-time Monitoring Platform Regarding EES Operation Status for Safety Enhancement (20209810300090) Korea Institute of Energy Technology Evaluation and Planning and the Ministry of Trade, Industry Energy
 - Development of Data Augmentation Technology by Using Heterogeneous Data and External Data Integration (2020-0-00062) Institute of Information & Communications Technology Planning & Evaluation
