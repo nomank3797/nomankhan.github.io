@@ -20,10 +20,10 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 - Road Safety for Kids Based on Virtual Reality Interaction Physical Space (Award Letter No. MPUI-22/HEREF/2014-15/Vol-IV/3410) Higher Education Department Khyber Pakhtunkhwa, Higher Education Archives & Libraries Department, Higher Education Research Endowment Fund
 
 ### Patents
-- Method for Predicting Renewable Energy Consumption and Production Data by Selecting One of Multiple AI Algorithms from AI Database Apparatus Thereof (1020220163889)
-- Method and System for Forecasting Renewable Energy Generation Based on Artificial Neural Network (1020210159085) 
-- A System and Method for Batteries State of Health Estimation Using Multiple Channel Charging Profile (1020210126366)
-- Crowded Scenes Image Real-time Analysis Apparatus Using Dilated Convolutional Neural Network and Method Thereof (1024860830000)
+- [METHOD FOR PREDICTING RENEWABLE ENERGY CONSUMPTION AND PRODUCTION DATA BY SELECTING ONE OF MULTIPLE AI ALGORITHMS FROM AI DATABASE APPARATUS THEREOF](https://doi.org/10.8080/1020220163889?urlappend=en) (1020220163889)
+- [METHOD AND SYSTEM FOR FORECASTING RENEWABLE ENERGY GENERATION BASED ON ARTIFICIAL NEURAL NETWORK](https://doi.org/10.8080/1020210159085?urlappend=en) (1020210159085) 
+- [A System and Method for Batteries State of Health Estimation using Multiple Channel Charging Profile](https://doi.org/10.8080/1020210126366?urlappend=en) (1020210126366)
+- [Crowded scenes image real-time analysis apparatus using dilated convolutional neural network and method thereof](https://doi.org/10.8080/1020200140950) (1024860830000)
 
 ### Publications
 
