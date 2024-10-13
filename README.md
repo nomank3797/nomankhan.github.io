@@ -1,4 +1,3 @@
-### Noman Khan
 
 ### Research Interest
 Artificial Intelligence, Time Series Analysis, Computer Vision
