@@ -4,7 +4,7 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 
 ### Education
 - Ph.d., Software | [Sejong University](http://sejong.ac.kr/), South Korea (August 2024)
-- BS., Computer Science | Islamia College Peshawar, Pakistan (August 2018)
+- BS., Computer Science | [Islamia College Peshawar](https://www.icp.edu.pk/), Pakistan (August 2018)
 
 ### Work Experience
 - Lab Coordinator @ Intelligent Media Laboratory, Sejong University, South Korea (September 2023 - August 2024)
