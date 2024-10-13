@@ -1,6 +1,6 @@
 title: Noman Khan
 logo: /assets/images/logo.png
 #description: text below image
-#show_downloads: true
+show_downloads: false
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-leap-day
