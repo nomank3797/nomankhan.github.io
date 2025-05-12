@@ -7,7 +7,7 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 - BS., Computer Science | [Islamia College Peshawar](https://www.icp.edu.pk/), Pakistan (August 2018)
 
 ### Work Experience
-- postdoctoral researcher @ Esports & High-Performance Human-Computer Interaction Laboratory, Yonsei University, South Korea (September 2024 - Present)
+- Postdoctoral Researcher @ Esports & High-Performance Human-Computer Interaction Laboratory, Yonsei University, South Korea (October 2024 - Present)
 - Lab Coordinator @ Intelligent Media Laboratory, Sejong University, South Korea (September 2023 - August 2024)
 - Research Assistant @ Intelligent Media Laboratory, Sejong University, South Korea (September 2019 - August 2023)
 - Research Assistant @ Digital Image Processing Laboratory, Islamia College Peshawar, Pakistan (September 2017 - August 2019)
@@ -40,6 +40,9 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 - Noman Khan et al. "SD-Net: Understanding overcrowded scenes in real-time via an efficient dilated convolutional neural network." Journal of Real-Time Image Processing 18 (2021): 1729-1743. [IF: 2.293, Rank: Q2]
 - Noman Khan et al. "An Adaptive Game-Based Learning Strategy for Children Road Safety Education and Practice in Virtual Space." Sensors 21.11 (2021): 3661. [IF: 3.847, Rank: Q1]
 - Noman Khan et al. "Batteries State of Health Estimation via Efficient Neural Networks With Multiple Channel Charging Profiles." Ieee Access 9 (2020): 7797-7813. [IF: 3.367, Rank: Q1]
+- Adnan Hussain, Hikmat Yar, Noman Khan, et al. “Dual stream deep attention networks for annual population projection.” Pattern Analysis and Applications (2025). [IF: 3.7, Rank: Q2]
+- Zulfiqar Ahmad Khan, Fath U Min Ullah, Hikmat Yar, Waseem Ullah, Noman Khan, et al. “Optimized cross-module attention network and medium-scale dataset for effective fire detection.” Pattern Recognition (2025). [IF: 7.5, Rank: Q1]
+- Samee Ullah Khan, Ehtesham Iqbal, Noman Khan, et al. “Towards net zero energy building: AI-based framework for power consumption and generation prediction.” Energy and Buildings (2025). [IF: 6.6, Rank: Q1]
 - Muhammad Munsif, Samee Ullah Khan, Noman Khan, et al. “Contextual visual and motion salient fusion framework for action recognition in dark environments.” Knowledge-Based Systems (2024). [IF: 7.2, Rank: Q1]
 - Muhammad Munsif, Noman Khan, et al. “Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow Fast Network for Industrial Applications.” IEEE Transactions on Industrial Informatics (2024). [IF: 11.7, Rank: Q1]
 - Adnan Hussain, Waseem Ullah, Noman Khan, et al. “TDS-Net: Transformer enhanced dual-stream network for video Anomaly Detection.” Expert Systems with Applications (2024). [IF: 7.5, Rank: Q1]
