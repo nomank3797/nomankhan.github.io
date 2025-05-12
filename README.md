@@ -28,7 +28,7 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 
 ### Publications
 
-### Journal Publications
+### [Journal Publications](https://scholar.google.com/citations?user=329rZ4cAAAAJ&hl=en&oi=sra)
 
 - Noman Khan et al. "Generative Adversarial Network-Assisted Framework for Power Management." Cognitive Computation (2024). [IF: 5.4, Rank: Q1]
 - Noman Khan et al. "Deep Autoencoder-Based Hybrid Network for Building Energy Consumption Forecasting." Computer Systems Science & Engineering 48.1 (2024). [IF: 4.397, Rank: Q1]
@@ -95,5 +95,5 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 - Min Je Kim, Ju Chan Park, Samee Ullah Khan, Noman Khan, et al. “Object Tracking using Similarity Measurement Algorithm in Multi-View Surveillance Videos.” [6th ICNGC, 2020.12]
 - Imran Ullah Khan, Hikmat Yar, Noman Khan, et al. “Efficient Skin Cancer Detection Using Embedded Device.” [4th ICNGC, 2018.12] 
 
-### Workshop Publications
+### [Workshop Publications](https://scholar.google.com/citations?user=329rZ4cAAAAJ&hl=en&oi=sra)
 - Altaf Hussain, Noman Khan, et al. “Medium Scale Benchmark for Cricket Excited Actions Understanding.” [10th International Workshop on Computer Vision in Sports at CVPR 2024]
