@@ -7,6 +7,7 @@ Artificial Intelligence, Time Series Analysis, Computer Vision
 - BS., Computer Science | [Islamia College Peshawar](https://www.icp.edu.pk/), Pakistan (August 2018)
 
 ### Work Experience
+- postdoctoral researcher @ Esports & High-Performance Human-Computer Interaction Laboratory, Yonsei University, South Korea (September 2024 - Present)
 - Lab Coordinator @ Intelligent Media Laboratory, Sejong University, South Korea (September 2023 - August 2024)
 - Research Assistant @ Intelligent Media Laboratory, Sejong University, South Korea (September 2019 - August 2023)
 - Research Assistant @ Digital Image Processing Laboratory, Islamia College Peshawar, Pakistan (September 2017 - August 2019)
